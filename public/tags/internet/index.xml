@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet on muuksis blogdown</title>
+    <link>/tags/internet/</link>
+    <description>Recent content in Internet on muuksis blogdown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RStudio and proxy configurations - what a mess</title>
+      <link>/2018/01/25/rstudio-and-proxy-configurations-what-a-mess/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/25/rstudio-and-proxy-configurations-what-a-mess/</guid>
+      <description>In the last days of work I messed around with Rstudio and my internet connection at my workplace. I waisted a lot of time because I am behind a proxy server. The internet connection on my MacBook pro with Safari and Firefox worked with autodiscovery of my University&amp;rsquo;s proxy settings. Only in RSTudio I could not get it to work. While trying to install packages, sometimes nothing happend and sometimes a timeout notice occured.</description>
+    </item>
+    
+  </channel>
+</rss>

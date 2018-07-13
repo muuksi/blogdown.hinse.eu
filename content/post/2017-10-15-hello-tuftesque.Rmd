@@ -1,11 +1,12 @@
 ---
 title: Hello Tuftesque
-author: ''
+author: 'muuksi'
 date: '2017-10-15'
 slug: hello-tuftesque
-categories: []
-tags: []
+categories: [blogdown, hugo, tufte]
+tags: [tufte, R, RMarkdown, Hugo-Theme]
 excerpt: "A simple post on how to work with the tuftesque theme and how to customize it to your heart's desire."
+thumbnail: "http://bit.ly/2tNSEG4" 
 ---
 
 _This is an abridged version of the blogpost [Introducing The Tuftesque Blogdown Theme](http://livefreeordichotomize.com/2017/07/13/introducing-the-tuftesque-blogdown-theme/) on [livefreeordichotomize.com](livefreeordichotomize.com)._
